@@ -8,7 +8,6 @@ The Indian digital payments story has truly captured the world’s imagination. 
 <!-- TOC -->
 
 - [PhonePe Pulse - Data](#phonepe-pulse---data)
-  - [Announcements](#announcements)
   - [Table of Contents](#table-of-contents)
   - [Goal](#goal)
   - [Guide](#guide)
@@ -499,4 +498,5 @@ For complete details on syntax find the comments in below code
 ## LICENSE
 
 [Community Data License Agreement – Permissive – Version 2.0](https://github.com/PhonePe/pulse/blob/master/LICENSE)
+
 
